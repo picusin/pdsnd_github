@@ -7,7 +7,7 @@
 Miguel's bikeshare project for Udacity course
 
 ### Description
-Project for completing the Udacity Nanodegree
+Project for completing the Udacity Nanodegree in 2021
 
 ### Files used
 bikeshare.py
