@@ -4,7 +4,7 @@
 2021-11-12
 
 ### Project Title
-Miguel's bikeshare project
+Miguel's bikeshare project for Udacity course
 
 ### Description
 Project for completing the Udacity Nanodegree
