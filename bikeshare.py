@@ -20,7 +20,7 @@ def get_filters():
     while city.lower() != 'chicago' and city.lower() != 'new york' and city.lower() != 'washington':
         city = input('\nUnfortunately we don\'t have data for that city, please try again:\nWhich city would you like to obtain data from? Chicago, New York or Washington? ')
 
-    filter_type = input('\nGreat choice!\nWould you like to filter the data by month (month), day of the week (day), both (both) or not filter at all (none)? ')
+    filter_type = input('\nGreat choice!\nWould you like to filter the data by month (month), weekday (day), both (both) or not filter at all (none)? ')
     while filter_type.lower() != 'month' and filter_type.lower() != 'day' and filter_type.lower() != 'both' and filter_type.lower() != 'none':
         filter_type = input('\nSorry, I didn\'t understand your choice, please try again:\nWould you like to filter the data by month (month), day of the week (day), both (both) or not filter at all (none)? ')
     if filter_type == 'day':
